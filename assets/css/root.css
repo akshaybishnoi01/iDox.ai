@@ -191,7 +191,6 @@
     color: var(--color-lightblue-);
 }
 
-
 @media (max-width:992px) {
     :root {
         --fs-10-: 10px;

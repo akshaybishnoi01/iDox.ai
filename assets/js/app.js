@@ -48,7 +48,6 @@ $('.responsive').slick({
 });
 
 
-
 // --------slider
 $('.first-slider').slick({
   infinite: true,
