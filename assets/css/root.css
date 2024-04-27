@@ -207,6 +207,7 @@
         --fs-xxxl-: 46px;
     }
 }
+
 @media (max-width:576px) {
     :root {
         --fs-10-: 9px;
