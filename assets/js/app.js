@@ -75,6 +75,14 @@ function toggle(source) {
   for (var i = 0; i < checkboxes.length; i++) {
     if (checkboxes[i] != source)
       checkboxes[i].checked = source.checked;
+  };
+  {
+    var x = document.getElementById("myDIV");
+    if (x.innerHTML === "Select all") {
+      x.innerHTML = "Deselect all";
+    } else {
+      x.innerHTML = "Select all";
+    }
   }
 }
 

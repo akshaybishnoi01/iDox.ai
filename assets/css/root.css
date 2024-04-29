@@ -200,10 +200,10 @@
         --fs-xmd-: 16px;
         --fs-md-: 18px;
         --fs-xlg-: 20px;
-        --fs-lg-: 30px;
-        --fs-xl-: 34px;
-        --fs-xxl-: 42px;
-        --fs-xxxl-: 46px;
+        --fs-lg-: 24px;
+        --fs-xl-: 30px;
+        --fs-xxl-: 36px;
+        --fs-xxxl-: 40px;
     }
 }
 
@@ -216,9 +216,9 @@
         --fs-xmd-: 15px;
         --fs-md-: 16px;
         --fs-xlg-: 18px;
-        --fs-lg-: 26px;
-        --fs-xl-: 30px;
-        --fs-xxl-: 34px;
-        --fs-xxxl-: 38px;
+        --fs-lg-: 20px;
+        --fs-xl-: 22px;
+        --fs-xxl-: 25px;
+        --fs-xxxl-: 28px;
     }
 }
